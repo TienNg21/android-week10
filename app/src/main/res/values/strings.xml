@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">androidweek10</string>
+    <string name="nav_home">Home</string>
+    <string name="nav_favorite">Favorite</string>
+    <string name="nav_account">Account</string>
+    <string name="nav_profile">Profile</string>
+    <string name="nav_setting">Setting</string>
+
+    <string name="nav_open">Open navigation</string>
+    <string name="nav_close">Close navigation</string>
+</resources>
